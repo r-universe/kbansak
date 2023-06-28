@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "powerLATE"]
 	path = powerLATE
 	url = https://github.com/kbansak/powerlate
-	shallow = true
-	registered = true
